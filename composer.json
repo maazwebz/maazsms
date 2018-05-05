@@ -1,0 +1,22 @@
+{
+  "name": "maazwebz/maazsms",
+  "description": "MaazSMS API is build for MaazSMS - Bulk SMS Application For Marketing",
+  "type": "library",
+  "license": "MIT",
+  "version": "1.0.3",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Maaz webz",
+      "email": "maazwebz@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.3.0"
+  }
+}
